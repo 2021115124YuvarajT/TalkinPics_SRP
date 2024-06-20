@@ -1,0 +1,2980 @@
+{
+    "categories": [
+        {
+            "name": "Wildlife",
+            "imageIds": [
+                {
+                    "id": 38318,
+                    "text": [
+                        "glass catfish"
+                    ]
+                },
+                {
+                    "id": 38319,
+                    "text": [
+                        "tinfoil barb"
+                    ]
+                },
+                {
+                    "id": 38320,
+                    "text": [
+                        "clown featherback"
+                    ]
+                },
+                {
+                    "id": 38326,
+                    "text": [
+                        "mudskipper"
+                    ]
+                },
+                {
+                    "id": 38327,
+                    "text": [
+                        "velvet cichlid"
+                    ]
+                },
+
+                {
+                    "id": 38330,
+                    "text": [
+                        "Atlantic wolffish"
+                    ]
+                },
+                {
+                    "id": 38331,
+                    "text": [
+                        "reticulated python"
+                    ]
+                },
+                {
+                    "id": 38337,
+                    "text": [
+                        "sugar glider"
+                    ]
+                },
+                {
+                    "id": 38338,
+                    "text": [
+                        "turacou"
+                    ]
+                },
+                {
+                    "id": 38339,
+                    "text": [
+                        "poison arrow frog"
+                    ]
+                },
+                {
+                    "id": 38340,
+                    "text": [
+                        "giant gourami"
+                    ]
+                },
+                {
+                    "id": 38341,
+                    "text": [
+                        "kissing gourami"
+                    ]
+                },
+                {
+                    "id": 38342,
+                    "text": [
+                        "basilisk"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "animals",
+            "imageIds": [
+                {
+                    "id": 2313,
+                    "text": [
+                        "kangaroo"
+                    ]
+                },
+                {
+                    "id": 2324,
+                    "text": [
+                        "zebra"
+                    ]
+                },
+                {
+                    "id": 2343,
+                    "text": [
+                        "crocodile"
+                    ]
+                },
+                {
+                    "id": 2351,
+                    "text": [
+                        "rabbit"
+                    ]
+                },
+                {
+                    "id": 2372,
+                    "text": [
+                        "elephant"
+                    ]
+                },
+                {
+                    "id": 2406,
+                    "text": [
+                        "cat"
+                    ]
+                },
+                {
+                    "id": 2410,
+                    "text": [
+                        "gorilla"
+                    ]
+                },
+                {
+                    "id": 2424,
+                    "text": [
+                        "hippopotamus"
+                    ]
+                },
+                {
+                    "id": 2437,
+                    "text": [
+                        "giraffe"
+                    ]
+                },
+                {
+                    "id": 2449,
+                    "text": [
+                        "lion"
+                    ]
+                },
+                {
+                    "id": 2477,
+                    "text": [
+                        "monkey"
+                    ]
+                },
+                {
+                    "id": 2488,
+                    "text": [
+                        "bear"
+                    ]
+                },
+
+                {
+                    "id": 2517,
+                    "text": [
+                        "dog"
+                    ]
+                },
+                {
+                    "id": 2543,
+                    "text": [
+                        "frog"
+                    ]
+                },
+                {
+                    "id": 2546,
+                    "text": [
+                        "mouse"
+                    ]
+                },
+                {
+                    "id": 2550,
+                    "text": [
+                        "rhinoceros"
+                    ]
+                },
+                {
+                    "id": 2568,
+                    "text": [
+                        "snake"
+                    ]
+                },
+                {
+                    "id": 2590,
+                    "text": [
+                        "tiger"
+                    ]
+                },
+                {
+                    "id": 2596,
+                    "text": [
+                        "tortoise"
+                    ]
+                },
+                {
+                    "id": 2589,
+                    "text": [
+                        "shark"
+                    ]
+                },
+                {
+                    "id": 2609,
+                    "text": [
+                        "cow"
+                    ]
+                },
+                {
+                    "id": 2623,
+                    "text": [
+                        "fox"
+                    ]
+                },
+                {
+                    "id": 2732,
+                    "text": [
+                        "dolphin"
+                    ]
+                },
+                {
+                    "id": 2672,
+                    "text": [
+                        "seahorse"
+                    ]
+                },
+                {
+                    "id": 2821,
+                    "text": [
+                        "rat"
+                    ]
+                },
+                {
+                    "id": 2869,
+                    "text": [
+                        "panda"
+                    ]
+                },
+                {
+                    "id": 2942,
+                    "text": [
+                        "leopard"
+                    ]
+                },
+                {
+                    "id": 2949,
+                    "text": [
+                        "lizard"
+                    ]
+                },
+                {
+                    "id": 2954,
+                    "text": [
+                        "koala"
+                    ]
+                },
+                {
+                    "id": 2998,
+                    "text": [
+                        "vulture"
+                    ]
+                },
+                {
+                    "id": 3003,
+                    "text": [
+                        "chameleon"
+                    ]
+                },
+                {
+                    "id": 3316,
+                    "text": [
+                        "flamingo"
+                    ]
+                },
+                {
+                    "id": 3346,
+                    "text": [
+                        "hamster"
+                    ]
+                },
+                {
+                    "id": 3379,
+                    "text": [
+                        "octopus"
+                    ]
+                },
+                {
+                    "id": 5378,
+                    "text": [
+                        "eel"
+                    ]
+                },
+                {
+                    "id": 5892,
+                    "text": [
+                        "wolf"
+                    ]
+                },
+                {
+                    "id": 5969,
+                    "text": [
+                        "weasel"
+                    ]
+                },
+                {
+                    "id": 6237,
+                    "text": [
+                        "unicorn"
+                    ]
+                },
+                {
+                    "id": 7236,
+                    "text": [
+                        "salamander"
+                    ]
+                },
+                {
+                    "id": 8073,
+                    "text": [
+                        "chimpanzee"
+                    ]
+                },
+                {
+                    "id": 8564,
+                    "text": [
+                        "scorpion"
+                    ]
+                },
+                {
+                    "id": 9067,
+                    "text": [
+                        "llama"
+                    ]
+                },
+                {
+                    "id": 10241,
+                    "text": [
+                        "turtle"
+                    ]
+                },
+                {
+                    "id": 13090,
+                    "text": [
+                        "platypus"
+                    ]
+                },
+                {
+                    "id": 17241,
+                    "text": [
+                        "gazelle"
+                    ]
+                },
+                {
+                    "id": 17253,
+                    "text": [
+                        "hyena"
+                    ]
+                },
+                {
+                    "id": 21964,
+                    "text": [
+                        "lynx"
+                    ]
+                },
+                {
+                    "id": 22039,
+                    "text": [
+                        "sloth"
+                    ]
+                },
+                {
+                    "id": 23863,
+                    "text": [
+                        "alligator"
+                    ]
+                },
+                {
+                    "id": 24986,
+                    "text": [
+                        "centipede"
+                    ]
+                },
+                {
+                    "id": 26134,
+                    "text": [
+                        "iguana"
+                    ]
+                },
+
+                {
+                    "id": 26829,
+                    "text": [
+                        "hedgehog"
+                    ]
+                },
+                {
+                    "id": 29768,
+                    "text": [
+                        "coyote"
+                    ]
+                },
+                {
+                    "id": 34082,
+                    "text": [
+                        "kitten"
+                    ]
+                },
+                {
+                    "id": 37251,
+                    "text": [
+                        "ferret"
+                    ]
+                },
+                {
+                    "id": 38147,
+                    "text": [
+                        "walrus"
+                    ]
+                },
+                {
+                    "id": 38372,
+                    "text": [
+                        "tarantula"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "birds",
+            "imageIds": [
+                {
+                    "id": 2337,
+                    "text": [
+                        "swan"
+                    ]
+                },
+
+                {
+                    "id": 2404,
+                    "text": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": 2490,
+                    "text": [
+                        "bird"
+                    ]
+                },
+                {
+                    "id": 2493,
+                    "text": [
+                        "pigeon"
+                    ]
+                },
+                {
+                    "id": 2509,
+                    "text": [
+                        "turkey"
+                    ]
+                },
+                {
+                    "id": 2562,
+                    "text": [
+                        "parakeet"
+                    ]
+                },
+                {
+                    "id": 2563,
+                    "text": [
+                        "duck"
+                    ]
+                },
+                {
+                    "id": 2638,
+                    "text": [
+                        "eagle"
+                    ]
+                },
+                {
+                    "id": 2650,
+                    "text": [
+                        "ostrich"
+                    ]
+                },
+                {
+                    "id": 2671,
+                    "text": [
+                        "owl"
+                    ]
+                },
+                {
+                    "id": 2878,
+                    "text": [
+                        "goose"
+                    ]
+                },
+                {
+                    "id": 2934,
+                    "text": [
+                        "parrot"
+                    ]
+                },
+
+                {
+                    "id": 2998,
+                    "text": [
+                        "vulture"
+                    ]
+                },
+                {
+                    "id": 3004,
+                    "text": [
+                        "canary"
+                    ]
+                },
+                {
+                    "id": 3243,
+                    "text": [
+                        "penguin"
+                    ]
+                },
+                {
+                    "id": 3316,
+                    "text": [
+                        "flamingo"
+                    ]
+                },
+                {
+                    "id": 3334,
+                    "text": [
+                        "gull"
+                    ]
+                },
+                {
+                    "id": 4619,
+                    "text": [
+                        "raven"
+                    ]
+                },
+                {
+                    "id": 4657,
+                    "text": [
+                        "sparrow"
+                    ]
+                },
+                {
+                    "id": 4766,
+                    "text": [
+                        "magpie"
+                    ]
+                },
+                {
+                    "id": 6174,
+                    "text": [
+                        "pelican"
+                    ]
+                },
+
+                {
+                    "id": 8711,
+                    "text": [
+                        "toucan"
+                    ]
+                },
+                {
+                    "id": 9062,
+                    "text": [
+                        "hummingbird"
+                    ]
+                },
+                {
+                    "id": 9063,
+                    "text": [
+                        "cormorant"
+                    ]
+                },
+                {
+                    "id": 13348,
+                    "text": [
+                        "peacock"
+                    ]
+                },
+
+                {
+                    "id": 25970,
+                    "text": [
+                        "quail"
+                    ]
+                },
+                {
+                    "id": 27640,
+                    "text": [
+                        "cockatoo"
+                    ]
+                },
+                {
+                    "id": 29702,
+                    "text": [
+                        "rhea"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "body parts",
+            "imageIds": [
+                {
+                    "id": 2663,
+                    "text": [
+                        "mouth"
+                    ]
+                },
+                {
+                    "id": 2669,
+                    "text": [
+                        "arm"
+                    ]
+                },
+                {
+                    "id": 2673,
+                    "text": [
+                        "head"
+                    ]
+                },
+                {
+                    "id": 2684,
+                    "text": [
+                        "face"
+                    ]
+                },
+                {
+                    "id": 2707,
+                    "text": [
+                        "elbow"
+                    ]
+                },
+                {
+                    "id": 2715,
+                    "text": [
+                        "heart"
+                    ]
+                },
+                {
+                    "id": 2727,
+                    "text": [
+                        "neck"
+                    ]
+                },
+                {
+                    "id": 2748,
+                    "text": [
+                        "back"
+                    ]
+                },
+                {
+                    "id": 2786,
+                    "text": [
+                        "belly"
+                    ]
+                },
+                {
+                    "id": 2810,
+                    "text": [
+                        "knee"
+                    ]
+                },
+                {
+                    "id": 2822,
+                    "text": [
+                        "lungs"
+                    ]
+                },
+                {
+                    "id": 2841,
+                    "text": [
+                        "foot"
+                    ]
+                },
+                {
+                    "id": 2851,
+                    "text": [
+                        "hair"
+                    ]
+                },
+                {
+                    "id": 2853,
+                    "text": [
+                        "chest"
+                    ]
+                },
+                {
+                    "id": 2871,
+                    "text": [
+                        "ear"
+                    ]
+                },
+                {
+                    "id": 2887,
+                    "text": [
+                        "nose"
+                    ]
+                },
+                {
+                    "id": 2904,
+                    "text": [
+                        "wrist"
+                    ]
+                },
+                {
+                    "id": 2919,
+                    "text": [
+                        "cheek"
+                    ]
+                },
+                {
+                    "id": 2928,
+                    "text": [
+                        "hand"
+                    ]
+                },
+                {
+                    "id": 2944,
+                    "text": [
+                        "tongue"
+                    ]
+                },
+                {
+                    "id": 2977,
+                    "text": [
+                        "shoulder"
+                    ]
+                },
+                {
+                    "id": 2980,
+                    "text": [
+                        "liver"
+                    ]
+                },
+                {
+                    "id": 2972,
+                    "text": [
+                        "bone"
+                    ]
+                },
+                {
+                    "id": 2991,
+                    "text": [
+                        "chin"
+                    ]
+                },
+                {
+                    "id": 3000,
+                    "text": [
+                        "hip"
+                    ]
+                },
+                {
+                    "id": 3011,
+                    "text": [
+                        "eyebrow"
+                    ]
+                },
+                {
+                    "id": 3298,
+                    "text": [
+                        "finger"
+                    ]
+                },
+                {
+                    "id": 3309,
+                    "text": [
+                        "stomach"
+                    ]
+                },
+                {
+                    "id": 3326,
+                    "text": [
+                        "forehead"
+                    ]
+                },
+                {
+                    "id": 3332,
+                    "text": [
+                        "throat"
+                    ]
+                },
+                {
+                    "id": 3399,
+                    "text": [
+                        "heel"
+                    ]
+                },
+                {
+                    "id": 3405,
+                    "text": [
+                        "ankle"
+                    ]
+                },
+                {
+                    "id": 3407,
+                    "text": [
+                        "bladder"
+                    ]
+                },
+
+                {
+                    "id": 5697,
+                    "text": [
+                        "cranium"
+                    ]
+                },
+                {
+                    "id": 6573,
+                    "text": [
+                        "eye"
+                    ]
+                },
+                {
+                    "id": 6996,
+                    "text": [
+                        "middle finger"
+                    ]
+                },
+
+                {
+                    "id": 7045,
+                    "text": [
+                        "ring finger"
+                    ]
+                },
+                {
+                    "id": 7791,
+                    "text": [
+                        "forefinger"
+                    ]
+                },
+                {
+                    "id": 7799,
+                    "text": [
+                        "thumb"
+                    ]
+                },
+                {
+                    "id": 8325,
+                    "text": [
+                        "kidney"
+                    ]
+                },
+                {
+                    "id": 8666,
+                    "text": [
+                        "leg"
+                    ]
+                },
+                {
+                    "id": 9104,
+                    "text": [
+                        "eyelid"
+                    ]
+                },
+                {
+                    "id": 10267,
+                    "text": [
+                        "tooth"
+                    ]
+                },
+                {
+                    "id": 16865,
+                    "text": [
+                        "fist"
+                    ]
+                },
+                {
+                    "id": 22185,
+                    "text": [
+                        "thigh"
+                    ]
+                },
+                {
+                    "id": 24001,
+                    "text": [
+                        "ulna"
+                    ]
+                },
+                {
+                    "id": 24045,
+                    "text": [
+                        "femur"
+                    ]
+                },
+                {
+                    "id": 24041,
+                    "text": [
+                        "phalanges"
+                    ]
+                },
+                {
+                    "id": 24109,
+                    "text": [
+                        "humerus"
+                    ]
+                },
+                {
+                    "id": 24260,
+                    "text": [
+                        "pelvis"
+                    ]
+                },
+                {
+                    "id": 24268,
+                    "text": [
+                        "fibula"
+                    ]
+                },
+                {
+                    "id": 24336,
+                    "text": [
+                        "radius"
+                    ]
+                },
+                {
+                    "id": 24436,
+                    "text": [
+                        "tibia"
+                    ]
+                },
+                {
+                    "id": 25278,
+                    "text": [
+                        "scapula"
+                    ]
+                },
+                {
+                    "id": 28407,
+                    "text": [
+                        "pancreas"
+                    ]
+                },
+                {
+                    "id": 31182,
+                    "text": [
+                        "knuckle"
+                    ]
+                },
+
+                {
+                    "id": 37435,
+                    "text": [
+                        "collarbone"
+                    ]
+                },
+                {
+                    "id": 37472,
+                    "text": [
+                        "maxilla"
+                    ]
+                },
+                {
+                    "id": 37473,
+                    "text": [
+                        "jaw"
+                    ]
+                },
+                {
+                    "id": 37482,
+                    "text": [
+                        "kneecap"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "colors",
+            "imageIds": [
+                {
+                    "id": 2648,
+                    "text": [
+                        "yellow"
+                    ]
+                },
+                {
+                    "id": 2662,
+                    "text": [
+                        "white"
+                    ]
+                },
+                {
+                    "id": 2807,
+                    "text": [
+                        "pink"
+                    ]
+                },
+                {
+                    "id": 2808,
+                    "text": [
+                        "red"
+                    ]
+                },
+                {
+                    "id": 2827,
+                    "text": [
+                        "silver"
+                    ]
+                },
+                {
+                    "id": 2886,
+                    "text": [
+                        "black"
+                    ]
+                },
+                {
+                    "id": 2888,
+                    "text": [
+                        "orange"
+                    ]
+                },
+                {
+                    "id": 2907,
+                    "text": [
+                        "purple"
+                    ]
+                },
+                {
+                    "id": 2923,
+                    "text": [
+                        "brown"
+                    ]
+                },
+                {
+                    "id": 3340,
+                    "text": [
+                        "grey"
+                    ]
+                },
+                {
+                    "id": 3355,
+                    "text": [
+                        "blue"
+                    ]
+                },
+                {
+                    "id": 4886,
+                    "text": [
+                        "green"
+                    ]
+                },
+
+                {
+                    "id": 9093,
+                    "text": [
+                        "beige"
+                    ]
+                },
+                {
+                    "id": 9095,
+                    "text": [
+                        "maroon"
+                    ]
+                },
+                {
+                    "id": 11395,
+                    "text": [
+                        "violet"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "emergencies",
+            "imageIds": [
+                {
+                    "id": 2251,
+                    "text": [
+                        "ambulance"
+                    ]
+                },
+                {
+                    "id": 2824,
+                    "text": [
+                        "police"
+                    ]
+                },
+                {
+                    "id": 3116,
+                    "text": [
+                        "hospital"
+                    ]
+                },
+                {
+                    "id": 4551,
+                    "text": [
+                        "accident"
+                    ]
+                },
+                {
+                    "id": 4570,
+                    "text": [
+                        "help"
+                    ]
+                },
+                {
+                    "id": 4654,
+                    "text": [
+                        "fire"
+                    ]
+                },
+                {
+                    "id": 4664,
+                    "text": [
+                        "bonfire"
+                    ]
+                },
+                {
+                    "id": 4668,
+                    "text": [
+                        "housefire"
+                    ]
+                },
+                {
+                    "id": 5490,
+                    "text": [
+                        "heart attack"
+                    ]
+                },
+                {
+                    "id": 5484,
+                    "text": [
+                        "injury"
+                    ]
+                },
+                {
+                    "id": 6196,
+                    "text": [
+                        "burn"
+                    ]
+                },
+                {
+                    "id": 8687,
+                    "text": [
+                        "emergency exit"
+                    ]
+                },
+                {
+                    "id": 9046,
+                    "text": [
+                        "rescue"
+                    ]
+                },
+                {
+                    "id": 14008,
+                    "text": [
+                        "warn"
+                    ]
+                },
+                {
+                    "id": 25052,
+                    "text": [
+                        "disaster"
+                    ]
+                },
+                {
+                    "id": 25315,
+                    "text": [
+                        "danger"
+                    ]
+                },
+                {
+                    "id": 25620,
+                    "text": [
+                        "subsidy"
+                    ]
+                },
+                {
+                    "id": 30008,
+                    "text": [
+                        "support"
+                    ]
+                },
+                {
+                    "id": 34765,
+                    "text": [
+                        "catastrophe"
+                    ]
+                },
+                {
+                    "id": 37735,
+                    "text": [
+                        "stroke"
+                    ]
+                },
+                {
+                    "id": 37863,
+                    "text": [
+                        "evacuate"
+                    ]
+                },
+                {
+                    "id": 38368,
+                    "text": [
+                        "kidnap"
+                    ]
+                },
+                {
+                    "id": 38370,
+                    "text": [
+                        "kidnaper"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "emotions",
+            "imageIds": [
+                {
+                    "id": 2245,
+                    "text": [
+                        "boring"
+                    ]
+                },
+                {
+                    "id": 2261,
+                    "text": [
+                        "frightened"
+                    ]
+                },
+                {
+                    "id": 2352,
+                    "text": [
+                        "confused"
+                    ]
+                },
+                {
+                    "id": 2374,
+                    "text": [
+                        "angry"
+                    ]
+                },
+                {
+                    "id": 2574,
+                    "text": [
+                        "surprised"
+                    ]
+                },
+                {
+                    "id": 2606,
+                    "text": [
+                        "sad"
+                    ]
+                },
+                {
+                    "id": 3245,
+                    "text": [
+                        "content"
+                    ]
+                },
+                {
+                    "id": 3250,
+                    "text": [
+                        "happy"
+                    ]
+                },
+                {
+                    "id": 6922,
+                    "text": [
+                        "ashamed"
+                    ]
+                },
+                {
+                    "id": 11312,
+                    "text": [
+                        "jitters"
+                    ]
+                },
+                {
+                    "id": 30484,
+                    "text": [
+                        "anxious"
+                    ]
+                },
+                {
+                    "id": 30630,
+                    "text": [
+                        "jealous"
+                    ]
+                },
+                {
+                    "id": 31310,
+                    "text": [
+                        "calm"
+                    ]
+                },
+                {
+                    "id": 31408,
+                    "text": [
+                        "proud"
+                    ]
+                },
+                {
+                    "id": 36341,
+                    "text": [
+                        "worried"
+                    ]
+                },
+                {
+                    "id": 38050,
+                    "text": [
+                        "quiet"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "entertainment",
+            "imageIds": [
+                {
+                    "id": 2283,
+                    "text": [
+                        "bowling"
+                    ]
+                },
+                {
+                    "id": 2870,
+                    "text": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "id": 3283,
+                    "text": [
+                        "model"
+                    ]
+                },
+                {
+                    "id": 11584,
+                    "text": [
+                        "concert"
+                    ]
+                },
+                {
+                    "id": 26708,
+                    "text": [
+                        "parade"
+                    ]
+                },
+                {
+                    "id": 35963,
+                    "text": [
+                        "juggler"
+                    ]
+                },
+                {
+                    "id": 37741,
+                    "text": [
+                        "antiques market"
+                    ]
+                },
+                {
+                    "id": 38297,
+                    "text": [
+                        "flea market"
+                    ]
+                },
+                {
+                    "id": 38298,
+                    "text": [
+                        "family tourism"
+                    ]
+                },
+                {
+                    "id": 38302,
+                    "text": [
+                        "food truck"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "family",
+            "imageIds": [
+                {
+                    "id": 2244,
+                    "text": [
+                        "grandfather"
+                    ]
+                },
+                {
+                    "id": 2243,
+                    "text": [
+                        "grandmother"
+                    ]
+                },
+                {
+                    "id": 2423,
+                    "text": [
+                        "brother"
+                    ]
+                },
+                {
+                    "id": 2422,
+                    "text": [
+                        "sister"
+                    ]
+                },
+                {
+                    "id": 2458,
+                    "text": [
+                        "mother"
+                    ]
+                },
+                {
+                    "id": 2497,
+                    "text": [
+                        "father"
+                    ]
+                },
+                {
+                    "id": 9885,
+                    "text": [
+                        "daughter"
+                    ]
+                },
+                {
+                    "id": 9887,
+                    "text": [
+                        "son"
+                    ]
+                },
+                {
+                    "id": 10342,
+                    "text": [
+                        "granddaughter"
+                    ]
+                },
+                {
+                    "id": 10343,
+                    "text": [
+                        "grandchild"
+                    ]
+                },
+                {
+                    "id": 30255,
+                    "text": [
+                        "uncle"
+                    ]
+                },
+                {
+                    "id": 30271,
+                    "text": [
+                        "aunt"
+                    ]
+                },
+                {
+                    "id": 30287,
+                    "text": [
+                        "nephew"
+                    ]
+                },
+                {
+                    "id": 30303,
+                    "text": [
+                        "niece"
+                    ]
+                },
+                {
+                    "id": 30340,
+                    "text": [
+                        "cousin"
+                    ]
+                },
+                {
+                    "id": 35060,
+                    "text": [
+                        "parents"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "food",
+            "imageIds": [
+                {
+                    "id": 2259,
+                    "text": [
+                        "rice and tomato sauce"
+                    ]
+                },
+                {
+                    "id": 2281,
+                    "text": [
+                        "sandwich"
+                    ]
+                },
+
+                {
+                    "id": 2334,
+                    "text": [
+                        "chocolate"
+                    ]
+                },
+                {
+                    "id": 2342,
+                    "text": [
+                        "cook"
+                    ]
+                },
+                {
+                    "id": 2377,
+                    "text": [
+                        "salad"
+                    ]
+                },
+                {
+                    "id": 2405,
+                    "text": [
+                        "stew"
+                    ]
+                },
+                {
+                    "id": 2419,
+                    "text": [
+                        "hamburger"
+                    ]
+                },
+                {
+                    "id": 2494,
+                    "text": [
+                        "bread"
+                    ]
+                },
+                {
+                    "id": 2527,
+                    "text": [
+                        "pizza"
+                    ]
+                },
+                {
+                    "id": 2573,
+                    "text": [
+                        "soup"
+                    ]
+                },
+                {
+                    "id": 4952,
+                    "text": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": 6502,
+                    "text": [
+                        "fish"
+                    ]
+                },
+                {
+                    "id": 8584,
+                    "text": [
+                        "noodle soup"
+                    ]
+                },
+                {
+                    "id": 8652,
+                    "text": [
+                        "pasta"
+                    ]
+                },
+                {
+                    "id": 10232,
+                    "text": [
+                        "slice of bread"
+                    ]
+                },
+                {
+                    "id": 10219,
+                    "text": [
+                        "burrito"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "government",
+            "imageIds": [
+                {
+                    "id": 38290,
+                    "text": [
+                        "complaints office"
+                    ]
+                },
+                {
+                    "id": 38291,
+                    "text": [
+                        "national ID card processing office"
+                    ]
+                },
+                {
+                    "id": 38292,
+                    "text": [
+                        "passport processing office"
+                    ]
+                },
+                {
+                    "id": 38293,
+                    "text": [
+                        "office for foreigners"
+                    ]
+                },
+                {
+                    "id": 38294,
+                    "text": [
+                        "police child welfare unit"
+                    ]
+                },
+                {
+                    "id": 38295,
+                    "text": [
+                        "familiy and women assistance unit"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "health and medical",
+            "imageIds": [
+                {
+                    "id": 2251,
+                    "text": [
+                        "ambulance"
+                    ]
+                },
+                {
+                    "id": 2375,
+                    "text": [
+                        "nurse"
+                    ]
+                },
+                {
+                    "id": 2467,
+                    "text": [
+                        "doctor"
+                    ]
+                },
+                {
+                    "id": 2960,
+                    "text": [
+                        "syringe"
+                    ]
+                },
+                {
+                    "id": 3116,
+                    "text": [
+                        "hospital"
+                    ]
+                },
+                {
+                    "id": 3313,
+                    "text": [
+                        "pharmacy"
+                    ]
+                },
+                {
+                    "id": 5484,
+                    "text": [
+                        "injury"
+                    ]
+                },
+                {
+                    "id": 6000,
+                    "text": [
+                        "stethoscope"
+                    ]
+                },
+                {
+                    "id": 6154,
+                    "text": [
+                        "crutches"
+                    ]
+                },
+                {
+                    "id": 6198,
+                    "text": [
+                        "X-ray picture"
+                    ]
+                },
+                {
+                    "id": 6212,
+                    "text": [
+                        "wheelchair"
+                    ]
+                },
+                {
+                    "id": 6243,
+                    "text": [
+                        "bandage"
+                    ]
+                },
+                {
+                    "id": 6561,
+                    "text": [
+                        "medical"
+                    ]
+                },
+                {
+                    "id": 6637,
+                    "text": [
+                        "illness"
+                    ]
+                },
+                {
+                    "id": 7023,
+                    "text": [
+                        "diarrhea"
+                    ]
+                },
+                {
+                    "id": 8163,
+                    "text": [
+                        "medicine"
+                    ]
+                },
+                {
+                    "id": 8230,
+                    "text": [
+                        "temperature"
+                    ]
+                },
+                {
+                    "id": 8235,
+                    "text": [
+                        "check blood pressure"
+                    ]
+                },
+                {
+                    "id": 9121,
+                    "text": [
+                        "motorized wheelchair"
+                    ]
+                },
+                {
+                    "id": 9168,
+                    "text": [
+                        "scalpel"
+                    ]
+                },
+                {
+                    "id": 16165,
+                    "text": [
+                        "appointment"
+                    ]
+                },
+                {
+                    "id": 25471,
+                    "text": [
+                        "motorised wheelchair"
+                    ]
+                },
+                {
+                    "id": 26929,
+                    "text": [
+                        "mold"
+                    ]
+                },
+                {
+                    "id": 27122,
+                    "text": [
+                        "pulse"
+                    ]
+                },
+                {
+                    "id": 27143,
+                    "text": [
+                        "checkup"
+                    ]
+                },
+                {
+                    "id": 27925,
+                    "text": [
+                        "operation"
+                    ]
+                },
+                {
+                    "id": 28019,
+                    "text": [
+                        "surgery"
+                    ]
+                },
+                {
+                    "id": 29831,
+                    "text": [
+                        "put on thermometer"
+                    ]
+                },
+                {
+                    "id": 30072,
+                    "text": [
+                        "vaccination"
+                    ]
+                },
+                {
+                    "id": 30116,
+                    "text": [
+                        "medication"
+                    ]
+                },
+                {
+                    "id": 30462,
+                    "text": [
+                        "examination room"
+                    ]
+                },
+                {
+                    "id": 30464,
+                    "text": [
+                        "hospital admission"
+                    ]
+                },
+                {
+                    "id": 30696,
+                    "text": [
+                        "ultrasound scan"
+                    ]
+                },
+                {
+                    "id": 30705,
+                    "text": [
+                        "scanner"
+                    ]
+                },
+                {
+                    "id": 31993,
+                    "text": [
+                        "tachycardia"
+                    ]
+                },
+                {
+                    "id": 32494,
+                    "text": [
+                        "dialysis"
+                    ]
+                },
+                {
+                    "id": 33112,
+                    "text": [
+                        "magnetic resonance"
+                    ]
+                },
+                {
+                    "id": 33926,
+                    "text": [
+                        "patient"
+                    ]
+                },
+                {
+                    "id": 35139,
+                    "text": [
+                        "consultation"
+                    ]
+                },
+                {
+                    "id": 36836,
+                    "text": [
+                        "drugstore"
+                    ]
+                },
+                {
+                    "id": 36852,
+                    "text": [
+                        "take the temperature"
+                    ]
+                },
+                {
+                    "id": 38349,
+                    "text": [
+                        "peritoneal dialysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "household items",
+            "imageIds": [
+                {
+                    "id": 2249,
+                    "text": [
+                        "carpet"
+                    ]
+                },
+                {
+                    "id": 2250,
+                    "text": [
+                        "pillow"
+                    ]
+                },
+                {
+                    "id": 2252,
+                    "text": [
+                        "ring"
+                    ]
+                },
+                {
+                    "id": 2253,
+                    "text": [
+                        "dish antenna"
+                    ]
+                },
+                {
+                    "id": 2304,
+                    "text": [
+                        "bed"
+                    ]
+                },
+                {
+                    "id": 2360,
+                    "text": [
+                        "painting"
+                    ]
+                },
+                {
+                    "id": 2385,
+                    "text": [
+                        "mirror"
+                    ]
+                },
+                {
+                    "id": 2459,
+                    "text": [
+                        "blanket"
+                    ]
+                },
+                {
+                    "id": 2571,
+                    "text": [
+                        "sofa"
+                    ]
+                },
+                {
+                    "id": 3129,
+                    "text": [
+                        "table"
+                    ]
+                },
+                {
+                    "id": 3155,
+                    "text": [
+                        "chair"
+                    ]
+                },
+                {
+                    "id": 3271,
+                    "text": [
+                        "vase"
+                    ]
+                },
+                {
+                    "id": 3279,
+                    "text": [
+                        "bookshelf"
+                    ]
+                },
+                {
+                    "id": 4936,
+                    "text": [
+                        "lamp"
+                    ]
+                },
+                {
+                    "id": 5561,
+                    "text": [
+                        "clock"
+                    ]
+                },
+                {
+                    "id": 6909,
+                    "text": [
+                        "wardrobe"
+                    ]
+                },
+                {
+                    "id": 8078,
+                    "text": [
+                        "mattress"
+                    ]
+                },
+                {
+                    "id": 8344,
+                    "text": [
+                        "curtain"
+                    ]
+                },
+                {
+                    "id": 8481,
+                    "text": [
+                        "oil"
+                    ]
+                },
+                {
+                    "id": 16297,
+                    "text": [
+                        "duvet"
+                    ]
+                },
+                {
+                    "id": 36305,
+                    "text": [
+                        "phone"
+                    ]
+                },
+                {
+                    "id": 36765,
+                    "text": [
+                        "closet"
+                    ]
+                },
+                {
+                    "id": 36766,
+                    "text": [
+                        "cabinet"
+                    ]
+                },
+                {
+                    "id": 36970,
+                    "text": [
+                        "tapestry"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "manners",
+            "imageIds": [
+                {
+                    "id": 6944,
+                    "text": [
+                        "good morning"
+                    ]
+                },
+                {
+                    "id": 6942,
+                    "text": [
+                        "good night"
+                    ]
+                },
+                {
+                    "id": 7221,
+                    "text": [
+                        "can I play?"
+                    ]
+                },
+                {
+                    "id": 8195,
+                    "text": [
+                        "please"
+                    ]
+                },
+                {
+                    "id": 11625,
+                    "text": [
+                        "sorry"
+                    ]
+                },
+                {
+                    "id": 37235,
+                    "text": [
+                        "forgiveness"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "music",
+            "imageIds": [
+                {
+                    "id": 2396,
+                    "text": [
+                        "flute"
+                    ]
+                },
+                {
+                    "id": 2417,
+                    "text": [
+                        "guitar"
+                    ]
+                },
+                {
+                    "id": 2463,
+                    "text": [
+                        "maracas"
+                    ]
+                },
+                {
+                    "id": 2495,
+                    "text": [
+                        "tambourine"
+                    ]
+                },
+                {
+                    "id": 2521,
+                    "text": [
+                        "piano"
+                    ]
+                },
+                {
+                    "id": 2559,
+                    "text": [
+                        "saxophone"
+                    ]
+                },
+                {
+                    "id": 2607,
+                    "text": [
+                        "trumpet"
+                    ]
+                },
+                {
+                    "id": 2615,
+                    "text": [
+                        "violin"
+                    ]
+                },
+                {
+                    "id": 2616,
+                    "text": [
+                        "xylophone"
+                    ]
+                },
+                {
+                    "id": 3256,
+                    "text": [
+                        "mandolin"
+                    ]
+                },
+                {
+                    "id": 4771,
+                    "text": [
+                        "violoncello"
+                    ]
+                },
+                {
+                    "id": 5476,
+                    "text": [
+                        "bagpipe"
+                    ]
+                },
+                {
+                    "id": 5895,
+                    "text": [
+                        "accordion"
+                    ]
+                },
+                {
+                    "id": 5909,
+                    "text": [
+                        "harmonica"
+                    ]
+                },
+                {
+                    "id": 5964,
+                    "text": [
+                        "clarinet"
+                    ]
+                },
+                {
+                    "id": 6233,
+                    "text": [
+                        "trombone"
+                    ]
+                },
+                {
+                    "id": 8341,
+                    "text": [
+                        "bongo"
+                    ]
+                },
+                {
+                    "id": 8493,
+                    "text": [
+                        "harp"
+                    ]
+                },
+
+                {
+                    "id": 37887,
+                    "text": [
+                        "ukulele"
+                    ]
+                },
+                {
+                    "id": 38104,
+                    "text": [
+                        "conga"
+                    ]
+                },
+                {
+                    "id": 38105,
+                    "text": [
+                        "djembe"
+                    ]
+                }
+
+            ]
+        },
+        {
+            "name": "natural disasters",
+            "imageIds": [
+                {
+                    "id": 4669,
+                    "text": [
+                        "flood"
+                    ]
+                },
+                {
+                    "id": 4755,
+                    "text": [
+                        "earthquake"
+                    ]
+                },
+                {
+                    "id": 5598,
+                    "text": [
+                        "tornado"
+                    ]
+                },
+                {
+                    "id": 8606,
+                    "text": [
+                        "hurricane"
+                    ]
+                }
+
+            ]
+        },
+        {
+            "name": "nature",
+            "imageIds": [
+
+                {
+                    "id": 2256,
+                    "text": [
+                        "tree"
+                    ]
+                },
+
+                {
+                    "id": 2666,
+                    "text": [
+                        "forest"
+                    ]
+                },
+                {
+                    "id": 2683,
+                    "text": [
+                        "countryside"
+                    ]
+                },
+                {
+                    "id": 2729,
+                    "text": [
+                        "cave"
+                    ]
+                },
+                {
+                    "id": 2734,
+                    "text": [
+                        "desert"
+                    ]
+                },
+                {
+                    "id": 2811,
+                    "text": [
+                        "river"
+                    ]
+                },
+                {
+                    "id": 2826,
+                    "text": [
+                        "beach"
+                    ]
+                },
+                {
+                    "id": 2909,
+                    "text": [
+                        "mountain"
+                    ]
+                },
+                {
+                    "id": 2925,
+                    "text": [
+                        "sea"
+                    ]
+                },
+                {
+                    "id": 2966,
+                    "text": [
+                        "island"
+                    ]
+                },
+                {
+                    "id": 3102,
+                    "text": [
+                        "flower"
+                    ]
+                },
+                {
+                    "id": 3385,
+                    "text": [
+                        "jungle"
+                    ]
+                },
+                {
+                    "id": 5567,
+                    "text": [
+                        "savanna"
+                    ]
+                },
+                {
+                    "id": 5951,
+                    "text": [
+                        "waterfall"
+                    ]
+                },
+                {
+                    "id": 6022,
+                    "text": [
+                        "lake"
+                    ]
+                },
+                {
+                    "id": 6238,
+                    "text": [
+                        "valley"
+                    ]
+                },
+                {
+                    "id": 6247,
+                    "text": [
+                        "volcano"
+                    ]
+                },
+                {
+                    "id": 25916,
+                    "text": [
+                        "field"
+                    ]
+                },
+                {
+                    "id": 26290,
+                    "text": [
+                        "marsh"
+                    ]
+                },
+                {
+                    "id": 32699,
+                    "text": [
+                        "ocean"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "professions",
+            "imageIds": [
+                {
+                    "id": 2375,
+                    "text": [
+                        "nurse"
+                    ]
+                },
+                {
+                    "id": 2395,
+                    "text": [
+                        "physiotherapist"
+                    ]
+                },
+                {
+                    "id": 2454,
+                    "text": [
+                        "speech therapist"
+                    ]
+                },
+                {
+                    "id": 2467,
+                    "text": [
+                        "doctor"
+                    ]
+                },
+                {
+                    "id": 2636,
+                    "text": [
+                        "lawyer"
+                    ]
+                },
+                {
+                    "id": 2733,
+                    "text": [
+                        "dentist"
+                    ]
+                },
+                {
+                    "id": 2780,
+                    "text": [
+                        "veterinary"
+                    ]
+                },
+                {
+                    "id": 2824,
+                    "text": [
+                        "police"
+                    ]
+                },
+                {
+                    "id": 2877,
+                    "text": [
+                        "optometrist"
+                    ]
+                },
+                {
+                    "id": 2957,
+                    "text": [
+                        "judge"
+                    ]
+                },
+                {
+                    "id": 3187,
+                    "text": [
+                        "surgeon"
+                    ]
+                },
+                {
+                    "id": 3312,
+                    "text": [
+                        "chemist"
+                    ]
+                },
+                {
+                    "id": 3377,
+                    "text": [
+                        "psychologist"
+                    ]
+                },
+
+                {
+                    "id": 6496,
+                    "text": [
+                        "pharmacist"
+                    ]
+                },
+                {
+                    "id": 6561,
+                    "text": [
+                        "medical"
+                    ]
+                },
+                {
+                    "id": 9191,
+                    "text": [
+                        "detective"
+                    ]
+                },
+                {
+                    "id": 11392,
+                    "text": [
+                        "veterinarian"
+                    ]
+                },
+
+                {
+                    "id": 16319,
+                    "text": [
+                        "cardiologist"
+                    ]
+                },
+                {
+                    "id": 31172,
+                    "text": [
+                        "allergist"
+                    ]
+                },
+                {
+                    "id": 31178,
+                    "text": [
+                        "pathologist"
+                    ]
+                },
+
+                {
+                    "id": 31933,
+                    "text": [
+                        "obstetrician"
+                    ]
+                },
+                {
+                    "id": 34235,
+                    "text": [
+                        "orthopedist"
+                    ]
+                },
+
+                {
+                    "id": 34373,
+                    "text": [
+                        "dermatologist"
+                    ]
+                },
+                {
+                    "id": 34723,
+                    "text": [
+                        "endocrinologist"
+                    ]
+                },
+                {
+                    "id": 34707,
+                    "text": [
+                        "counselor"
+                    ]
+                },
+                {
+                    "id": 34727,
+                    "text": [
+                        "oncologist"
+                    ]
+                },
+                {
+                    "id": 35277,
+                    "text": [
+                        "anesthesiologist"
+                    ]
+                },
+                {
+                    "id": 35283,
+                    "text": [
+                        "gynecologist"
+                    ]
+                },
+                {
+                    "id": 35275,
+                    "text": [
+                        "urologist"
+                    ]
+                },
+                {
+                    "id": 35293,
+                    "text": [
+                        "neurologist"
+                    ]
+                },
+                {
+                    "id": 35803,
+                    "text": [
+                        "nutritionist"
+                    ]
+                },
+                {
+                    "id": 36584,
+                    "text": [
+                        "radiologist"
+                    ]
+                },
+                {
+                    "id": 37491,
+                    "text": [
+                        "psychiatrist"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "social",
+            "imageIds": [
+                {
+                    "id": 2255,
+                    "text": [
+                        "friends"
+                    ]
+                },
+                {
+                    "id": 2392,
+                    "text": [
+                        "family"
+                    ]
+                },
+                {
+                    "id": 6241,
+                    "text": [
+                        "neighborhood"
+                    ]
+                },
+                {
+                    "id": 8256,
+                    "text": [
+                        "wedding"
+                    ]
+                }
+
+            ]
+        },
+        {
+            "name": "sports",
+            "imageIds": [
+                {
+                    "id": 4918,
+                    "text": [
+                        "basketball"
+                    ]
+                },
+                {
+                    "id": 4969,
+                    "text": [
+                        "badminton"
+                    ]
+                },
+
+                {
+                    "id": 8660,
+                    "text": [
+                        "baseball"
+                    ]
+                },
+                {
+                    "id": 8981,
+                    "text": [
+                        "boxing"
+                    ]
+                },
+                {
+                    "id": 9098,
+                    "text": [
+                        "yoga"
+                    ]
+                },
+                {
+                    "id": 9699,
+                    "text": [
+                        "cycling"
+                    ]
+                },
+                {
+                    "id": 10158,
+                    "text": [
+                        "tennis"
+                    ]
+                },
+                {
+                    "id": 10160,
+                    "text": [
+                        "golf"
+                    ]
+                },
+                {
+                    "id": 10164,
+                    "text": [
+                        "table tennis"
+                    ]
+                },
+                {
+                    "id": 10167,
+                    "text": [
+                        "volleyball"
+                    ]
+                },
+                {
+                    "id": 16701,
+                    "text": [
+                        "ski"
+                    ]
+                },
+                {
+                    "id": 21949,
+                    "text": [
+                        "rugby"
+                    ]
+                },
+                {
+                    "id": 21955,
+                    "text": [
+                        "karate"
+                    ]
+                },
+                {
+                    "id": 25038,
+                    "text": [
+                        "swimming"
+                    ]
+                },
+
+                {
+                    "id": 26838,
+                    "text": [
+                        "fencing"
+                    ]
+                },
+                {
+                    "id": 27741,
+                    "text": [
+                        "climb"
+                    ]
+                },
+                {
+                    "id": 29810,
+                    "text": [
+                        "snowboarding"
+                    ]
+                },
+                {
+                    "id": 35256,
+                    "text": [
+                        "football"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "technology",
+            "imageIds": [
+                {
+                    "id": 2487,
+                    "text": [
+                        "computer"
+                    ]
+                },
+
+                {
+                    "id": 2680,
+                    "text": [
+                        "camera"
+                    ]
+                },
+                {
+                    "id": 2793,
+                    "text": [
+                        "keyboard"
+                    ]
+                },
+                {
+                    "id": 2910,
+                    "text": [
+                        "screen"
+                    ]
+                },
+                {
+                    "id": 2912,
+                    "text": [
+                        "microphone"
+                    ]
+                },
+                {
+                    "id": 2970,
+                    "text": [
+                        "printer"
+                    ]
+                },
+                {
+                    "id": 5915,
+                    "text": [
+                        "headphones"
+                    ]
+                },
+                {
+                    "id": 8336,
+                    "text": [
+                        "speaker"
+                    ]
+                },
+                {
+                    "id": 9153,
+                    "text": [
+                        "scanner"
+                    ]
+                },
+                {
+                    "id": 9154,
+                    "text": [
+                        "GPS"
+                    ]
+                },
+                {
+                    "id": 9157,
+                    "text": [
+                        "storage"
+                    ]
+                },
+                {
+                    "id": 9159,
+                    "text": [
+                        "modem"
+                    ]
+                },
+                {
+                    "id": 9163,
+                    "text": [
+                        "router"
+                    ]
+                },
+                {
+                    "id": 9167,
+                    "text": [
+                        "webcam"
+                    ]
+                },
+                {
+                    "id": 9165,
+                    "text": [
+                        "tablet"
+                    ]
+                },
+                {
+                    "id": 25269,
+                    "text": [
+                        "mobile"
+                    ]
+                },
+
+                {
+                    "id": 27897,
+                    "text": [
+                        "monitor"
+                    ]
+                },
+                {
+                    "id": 31384,
+                    "text": [
+                        "smartwatch"
+                    ]
+                },
+                {
+                    "id": 35503,
+                    "text": [
+                        "Wi-Fi"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "transportation",
+            "imageIds": [
+                {
+                    "id": 2251,
+                    "text": [
+                        "ambulance"
+                    ]
+                },
+
+                {
+                    "id": 2262,
+                    "text": [
+                        "bus"
+                    ]
+                },
+                {
+                    "id": 2273,
+                    "text": [
+                        "boat"
+                    ]
+                },
+                {
+                    "id": 2277,
+                    "text": [
+                        "bicycle"
+                    ]
+                },
+                {
+                    "id": 2339,
+                    "text": [
+                        "car"
+                    ]
+                },
+                {
+                    "id": 2421,
+                    "text": [
+                        "helicopter"
+                    ]
+                },
+                {
+                    "id": 2472,
+                    "text": [
+                        "subway"
+                    ]
+                },
+                {
+                    "id": 2480,
+                    "text": [
+                        "motorcycle"
+                    ]
+                },
+                {
+                    "id": 2507,
+                    "text": [
+                        "skateboard"
+                    ]
+                },
+                {
+                    "id": 2508,
+                    "text": [
+                        "scooter"
+                    ]
+                },
+                {
+                    "id": 2580,
+                    "text": [
+                        "taxi"
+                    ]
+                },
+                {
+                    "id": 2600,
+                    "text": [
+                        "tractor"
+                    ]
+                },
+                {
+                    "id": 2603,
+                    "text": [
+                        "train"
+                    ]
+                },
+                {
+                    "id": 3172,
+                    "text": [
+                        "yacht"
+                    ]
+                },
+                {
+                    "id": 3232,
+                    "text": [
+                        "truck"
+                    ]
+                },
+                {
+                    "id": 3275,
+                    "text": [
+                        "van"
+                    ]
+                },
+
+
+
+                {
+                    "id": 10355,
+                    "text": [
+                        "forklift truck"
+                    ]
+                },
+                {
+                    "id": 21421,
+                    "text": [
+                        "ship"
+                    ]
+                },
+
+                {
+                    "id": 30612,
+                    "text": [
+                        "ferry"
+                    ]
+                },
+
+                {
+                    "id": 37075,
+                    "text": [
+                        "electric scooter"
+                    ]
+                },
+                {
+                    "id": 38332,
+                    "text": [
+                        "battery electric car"
+                    ]
+                }
+
+
+            ]
+        }
+    ]
+}
